@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+img {
+    width: 15%;
+}
+
+nav {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+nav li {
+    padding: 10px;
+}
+  
+  
+
